@@ -14,7 +14,7 @@ return [
             'port' => 993,
             'encryption' => 'ssl', // Supported: false, 'ssl', 'tls'
             'validate_cert' => true,
-            'username' => 'zalazdi@example.com',
+            'username' => 'devops92@gmail.com',
             'password' => 'PASSWORD',
         ],
 
@@ -23,7 +23,7 @@ return [
             'port' => 993,
             'encryption' => 'ssl', // Supported: false, 'ssl', 'tls'
             'validate_cert' => true,
-            'username' => 'example@gmail.com',
+            'username' => 'devops92@gmail.com',
             'password' => 'PASSWORD',
         ],
 

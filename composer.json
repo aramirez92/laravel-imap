@@ -1,17 +1,17 @@
 {
-    "name": "zalazdi/laravel-imap",
+    "name": "aramirez92/laravel-imap",
     "description": "Laravel 5 IMAP client.",
     "keywords": [
         "laravel",
         "imap",
         "mail"
     ],
-    "homepage": "https://github.com/Zalazdi/LaravelImap",
+    "homepage": "https://github.com/aramirez92/LaravelImap",
     "license": "MIT",
     "authors": [
         {
-            "name": "Krzysztof Graman",
-            "email": "zalazdi@gmail.com"
+            "name": "Alfredo Ramirez",
+            "email": "devops92@gmail.com"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zalazdi\\LaravelImap\\": "src"
+            "aramirez92\\LaravelImap\\": "src"
         }
     },
     "extra": {
