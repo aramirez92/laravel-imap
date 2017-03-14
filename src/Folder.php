@@ -1,13 +1,13 @@
 <?php
 
-namespace Zalazdi\LaravelImap;
+namespace Aramirez92\LaravelImap;
 
 class Folder
 {
     /**
      * Client instance
      *
-     * @var \Zalazdi\LaravelImap\Client
+     * @var \Aramirez92\LaravelImap\Client
      */
     protected $client;
 
@@ -88,7 +88,7 @@ class Folder
     /**
      * Folder constructor.
      *
-     * @param \Zalazdi\LaravelImap\Client $client
+     * @param \Aramirez92\LaravelImap\Client $client
      * @param $folder
      */
     public function __construct(Client $client, $folder)

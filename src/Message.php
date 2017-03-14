@@ -1,6 +1,6 @@
 <?php
 
-namespace Zalazdi\LaravelImap;
+namespace Aramirez92\LaravelImap;
 
 use Carbon\Carbon;
 
